@@ -33,13 +33,13 @@
            <a class="nav-link active" aria-current="page" href="#">Home</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link active" href="#"><i class="fa-solid fa-book"></i>Recent BOOK</a>
+           <a class="nav-link active" href="#"><i class="fa-solid fa-book"></i> Recent BOOK</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link active" href="#"><i class="fa-solid fa-book"></i>New Book</a>
+           <a class="nav-link active" href="#"><i class="fa-solid fa-book"></i> New Book</a>
          </li>
          <li class="nav-item">
-           <a class="nav-link active" aria-disabled="true"><i class="fa-solid fa-book"></i>Old Book</a>
+           <a class="nav-link active" aria-disabled="true"><i class="fa-solid fa-book"> </i> Old Book</a>
          </li>
        </ul>
        <form class="form-inline my-2 my-lg-0">
